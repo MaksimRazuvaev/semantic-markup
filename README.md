@@ -1,18 +1,29 @@
 # semantic-markup
-HTML web page are semantically structured. CSS file is commented
+HTML web pages are semantically structured. The CSS file is commented
 
 ## Description
 
-- Marketing agency wants to follow accessibility standards to make site is optimized for search engines SEO.
-- 
+- Marketing agency wants to follow accessibility standards to make the site optimized for search engines SEO.
+- Initial web page should look the same as before optimization:
+![Initial_WebPage](/assets/images/Initial_WebPage.PNG) 
+- Source code to optimize example is:
+![Initial_WebPage_Source_Code](/assets/images/Initial_Code_Example.png)
+- Most of all task is to replace DIV's element tags with more appropriate semantic tags
+- WebPage is aligned to SEO standards. Title and heading attributes are in place and fall in sequential order. 
+- WebPage is accessible and usable for people with limited abilities. Accessible alt attributes are in place.
+- WebPage after refactoring:
+![Refactored_WebPage](/assets/images/Refactored_WebPage.PNG) 
+- Source code after refactoring:
+![Refactored_WebPage_Source_Code](/assets/images/Refactored_Code_Example.png)
 
-## Web Site Location
+
+## Web Site Location (Deployed Application)
 
 https://maksimrazuvaev.github.io/semantic-markup/
 
 ## Usage
 
-Prework Study Guide can be used for folowing to HTML, CSS, JavaScript, Git technologies used to build this web site. DevTools console provides JavaScript running selection what topick can be learned first.
+The webpage is to provide info about the marketing agency services, accessible and usable for people with limited abilities, aligned to SEO standards.
 
 
 ## Credits
@@ -21,4 +32,4 @@ N/A
 
 ## License
 
-MIT License according to LICENSE file in the repo.
+MIT License according to the LICENSE file in the repo.
