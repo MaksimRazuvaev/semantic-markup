@@ -33,3 +33,8 @@ N/A
 ## License
 
 MIT License according to the LICENSE file in the repo.
+
+## References
+
+- https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/ 
+- https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=HTML%20and%20%3Cfigcaption,photos%2C%20code%20listings%2C%20etc.
