@@ -7,7 +7,7 @@ HTML web pages are semantically structured. The CSS file is commented
 - Initial web page should look the same as before optimization:
 ![Initial_WebPage](/assets/images/Initial_WebPage.PNG) 
 - Source code to optimize example is:
-![Initial_WebPage_Source_Code](/assets/images/Initial_Code_Example1.png)
+![Initial_WebPage_Source_Code](/assets/images/Initial_Code_Example1.PNG)
 - Most of all task is to replace DIV's element tags with more appropriate semantic tags
 - WebPage is aligned to SEO standards. Title and heading attributes are in place and fall in sequential order. 
 - WebPage is accessible and usable for people with limited abilities. Accessible alt attributes are in place.
